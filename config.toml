@@ -122,12 +122,12 @@ weight = 20
 [extra.footer]
 info = 'Powered by <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/aaranxu/adidoks">AdiDoks</a>'
 
-[[extra.footer.nav]]
-name = "Privacy"
-url = "/privacy-policy/"
-weight = 10
+#[[extra.footer.nav]]
+#name = "Privacy"
+#url = "/privacy-policy/"
+#weight = 10
 
 [[extra.footer.nav]]
-name = "Code of Conduct"
-url = "/docs/contributing/code-of-conduct/"
+name = "会社概要"
+url = "/about/"
 weight = 20

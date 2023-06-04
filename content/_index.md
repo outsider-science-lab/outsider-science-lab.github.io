@@ -10,8 +10,8 @@ url_button = "まずはご相談ください"
 # Menu items
 [[extra.menu.main]]
 name = "研究開発成果"
-section = "projects"
-url = "/projects/"
+section = "docs"
+url = "/docs/"
 weight = 10
 
 [[extra.menu.main]]
@@ -21,27 +21,27 @@ url = "/blog/"
 weight = 20
 
 [[extra.list]]
-title = "ボトルネック・ファースト"
+title = "ボトルネック・ファースト高速化"
 content = "ビジネスロジックの改修からLinuxカーネル、データセンターのネットワークまで、レイヤーに縛られずに解決策をご提案します。"
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+title = "型システムによる軽量形式手法"
+content = "型システムは、信頼性のあるソフトウェアを作るための鍵です。クリティカルなシステムのための言語の選定から型設計までご提案します。"
 
 [[extra.list]]
-title = "SEO-ready"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+title = "新技術の導入をサポート"
+content = "複数の企業で技術開発とその導入を行ってきたスタッフが、様々な新技術の導入をお手伝いします。まずはご相談ください。"
 
 [[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+title = "バグ・クラッシュ解析"
+content = "バイナリレベルのリバースエンジニアリングまで行い、100万回に1度しか起こらないバグを追い詰めます。"
 
 [[extra.list]]
-title = "Page layouts"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+title = "画像・動画処理"
+content = "GPUやSIMD、各種アクセラレータを用いた高速化のお手伝いをいたします。"
 
 [[extra.list]]
-title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+title = "画像圧縮と動画圧縮"
+content = "色彩工学の知識もあるエンジニアが、御社の要望に合わせコーデックの選定、最適な圧縮のためのシステム設計、場合によっては開発までを行います。"
 
 +++
