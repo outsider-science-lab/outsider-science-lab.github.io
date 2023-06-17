@@ -11,7 +11,11 @@ class = "page single"
 
 ## 社名
 
-合同会社はぐれ研究院（英：Outsider Science Lab.）
+合同会社はぐれ研究院（英：Outsider Science Lab. LLC.）
+
+## 代表社員
+
+[平藤 燎 (Ryo Hirafuji)](https://www.linkedin.com/in/ryohirafuji/)
 
 ## 本社所在地
 
@@ -31,11 +35,10 @@ class = "page single"
 - ソフトウェアの研究開発・コンサルティング事業
 - ゲームソフトウェアの開発事業
 
+## 取引銀行
+
+GMOあおぞらネット銀行
+
 ## 決算期
 
 3月
-
-## 代表社員
-
-[平藤 燎 (Ryo Hirafuji)](https://www.linkedin.com/in/ryohirafuji/)
-
