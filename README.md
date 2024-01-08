@@ -2,7 +2,13 @@
 
 https://outsider-science-lab.github.io/
 
-## How to develop
+## How to init
+
+```sh
+zola init
+```
+
+## Howo to develop this site
 
 ```sh
 zola serve
