@@ -8,3 +8,5 @@ sort_by = "weight"
 weight = 1
 draft = false
 +++
+
+- [fugaku.rs](https://github.com/outsider-science-lab/fugaku.rs)
