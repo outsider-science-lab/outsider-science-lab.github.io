@@ -1,8 +1,6 @@
 +++
 title = "会社概要"
 description = "合同会社はぐれ研究院について"
-date = 2021-05-01T08:00:00+00:00
-updated = 2020-05-01T08:00:00+00:00
 draft = false
 
 [extra]
