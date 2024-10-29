@@ -4,7 +4,7 @@ title = "この世界に、<br>高速で信頼できるITシステムを。"
 # The homepage contents
 [extra]
 lead = 'はぐれ研究院は、高速化と信頼性をメインに、IT企業の抱える様々な問題を、技術と論理の力で解決する研究開発企業です。'
-url = "mailto:qpy404@gmail.com?subject=[はぐれ研究院] （ご相談内容）"
+url = "mailto:contact@outsider-science-lab.com?subject=[はぐれ研究院] （ご相談内容）"
 url_button = "まずはご相談ください"
 
 # Menu items
