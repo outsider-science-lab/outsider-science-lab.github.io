@@ -1,9 +1,7 @@
 +++
 title = "Blog"
 description = "弊社の技術ブログ兼プレスリリースです。"
-sort_by = "weight"
-weight = 1
-template = "docs/section.html"
+sort_by = "date"
+template = "blog/section.html"
+paginate_by = 2
 +++
-
-弊社の技術ブログ兼プレスリリースです。
