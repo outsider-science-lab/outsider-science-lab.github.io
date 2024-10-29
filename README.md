@@ -8,7 +8,7 @@ https://outsider-science-lab.github.io/
 zola init
 ```
 
-## Howo to develop this site
+## How to develop this site
 
 ```sh
 zola serve
@@ -18,6 +18,12 @@ zola serve
 
 ```sh
 zola build
+```
+
+## How to check
+
+```sh
+zola check
 ```
 
 # References
