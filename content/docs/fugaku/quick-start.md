@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "One page summary of how to start a new AdiDoks project."
+lead = "実際に富岳でRustを使って Hello world! と印字するまでの方法を紹介します。"
 toc = true
 top = false
 +++
