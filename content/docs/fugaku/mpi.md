@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "One page summary of how to start a new AdiDoks project."
+lead = "富岳向けRust用MPIライブラリを利用し、実際にいくつかAPIを叩いてみます。"
 toc = true
 top = false
 +++
