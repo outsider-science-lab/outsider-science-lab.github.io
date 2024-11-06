@@ -33,7 +33,7 @@ jobs:
     steps:
       - uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.17.2
+          tool: zola@0.19.2
       - name: Checkout
         uses: actions/checkout@v3
         with:
