@@ -9,7 +9,7 @@ class = "page single"
 
 ## 社名
 
-合同会社はぐれ研究院（英：Outsider Science Lab. LLC.）
+合同会社はぐれ研究院（英：Outsider Science Lab., LLC.）
 
 ## 代表社員
 
