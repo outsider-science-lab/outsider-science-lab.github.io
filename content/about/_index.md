@@ -11,6 +11,8 @@ class = "page single"
 
 合同会社はぐれ研究院（英：Outsider Science Lab., LLC.）
 
+- [国税庁インボイス制度適格請求書発行事業者公表サイト](https://www.invoice-kohyo.nta.go.jp/regno-search/detail?selRegNo=6030003020037)
+
 ## 代表社員
 
 [平藤 燎 (Ryo Hirafuji)](https://www.linkedin.com/in/ryohirafuji/)
